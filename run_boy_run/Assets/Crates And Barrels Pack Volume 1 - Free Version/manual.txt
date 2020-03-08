@@ -1,0 +1,1 @@
+All models are set in the prefabs. You will find them in the "Prefabs" folder. All you need to do is to add the prefab to the scene
